@@ -118,7 +118,7 @@ Notes:
 ### 3. Deploy
 
 ```bash
-git clone https://github.com/ramynn/vercel-xhttp-relay.git
+git clone https://github.com/client-proo/vercel-xhttp-relay.git
 cd vercel-xhttp-relay
 
 vercel --prod
